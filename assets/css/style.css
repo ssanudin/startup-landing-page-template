@@ -1,0 +1,172 @@
+.navbar .navbar-nav .nav-link:not(.btn) i.fa{
+  font-size: 18px;
+  position: relative;
+  top: 3px;
+  text-align: center;
+  width: 21px;
+}
+
+.clear-filter[filter-color=green] {
+  background: linear-gradient(0deg, rgba(44, 44, 44, 0.6), rgba(0, 0, 255, 0.4));
+}
+
+.hover-shadow:hover{
+  box-shadow: 0 1rem 1rem rgba(0,0,0,.5) !important;
+  transform: scale(1.1);
+}
+
+.bg-primary{
+  background-color: #fff !important;
+}
+.navbar a:not(.btn):not(.dropdown-item) {
+  color: #f96332 !important;
+  font-size: 1em;
+}
+.nav-color-white a:not(.btn):not(.dropdown-item) {
+  color: #fff !important;
+}
+.navbar p{
+  font-size: 1.2em;
+}
+.navbar a:hover{
+  background-color: #fff !important;
+  border-radius: 0.25rem;
+  border-bottom: 1px solid #f96332;
+}
+.nav-color-white a:hover {
+  background-color: #f96332 !important;
+  border-radius: 0.25rem;
+  border-bottom: 1px solid #fff;
+}
+.navbae-toggler-yellow{
+  background-color: #f96332 !important;
+}
+
+.section{
+  padding-top: 70px !important;
+}
+
+#about .icon {
+  width: 3rem;
+  height: 3rem;
+  background-color: #f96332;
+  margin: 0 auto;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#about svg{
+  color: #fff;
+  height: 65%;
+  margin: 0 auto;
+}
+.list-usaha {
+  max-width: 850px;
+  margin: 3rem auto;
+}
+.list-usaha a{
+  margin-right: 1em;
+  border: 1px solid #999;
+  border-radius: 2rem !important;
+}
+
+.carousel .carousel-inner {
+  box-shadow: none;
+}
+
+#testimonial .card>i{
+  padding-top: 1rem;
+  font-size: 2rem;
+  color: #f96332;
+  display: block;
+}
+#testimonial .card img{
+  border-radius: 1rem;
+  max-height: 80px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: auto;
+  font-size: 2rem;
+  color: #f96332 !important;
+}
+#testimonial .ctrl:hover{
+  color: #f96332;
+}
+
+#tips .card .card-subtitle {
+  text-align: left;
+}
+.tips-tipsbisnis{
+  border: 1px solid #18ce0f;
+}
+.tips-peluangusaha{
+  border: 1px solid #f96332;
+}
+.tips-investasi{
+  border: 1px solid #ffb236;
+}
+.tips-informasi{
+  border: 1px solid #2ca8ff;
+}
+
+.tips-tipsbisnis .tag{
+  color: #18ce0f !important;
+}
+.tips-peluangusaha .tag{
+  color: #f96332 !important;
+}
+.tips-investasi .tag{
+  color: #ffb236 !important;
+}
+.tips-informasi .tag{
+  color: #2ca8ff !important;
+}
+
+#contact input{
+  color: #fff;
+}
+
+#contact input:focus{
+  background-color: #343a40;
+  color: #fff;
+}
+
+#contact textarea{
+  color: #fff;
+}
+
+#contact textarea:focus{
+  background-color: #343a40;
+  color: #fff;
+}
+
+#contact .address{
+  text-align: right;
+  max-width: 300px;
+}
+
+#contact .address a{
+  color: #fff;
+}
+#contact .address a:hover{
+  color: #f96332;
+}
+#contact h4{
+  font-size: 1.5em;
+  margin-bottom: 16px;
+}
+
+#contact p{
+  font-size: 1em;
+}
+
+.footer nav {
+  float: none;
+}
+
+.footer .copyright{
+  float: none;
+}
